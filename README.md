@@ -59,7 +59,6 @@ Contributions are welcome! If you have additional insights, better explanations,
 
 This repository is licensed under the MIT License. For more information, please refer to the [LICENSE](LICENSE) file.
 
----
 
 Start your competitive programming journey here and build a strong foundation for tackling even the most challenging problems. Happy coding! 🎉
 
