@@ -1,7 +1,3 @@
-Based on the files you've listed, here’s a tailored README file that references your existing content and organizes it professionally:
-
----
-
 # Competitive Programming Basics
 
 Welcome to the **Competitive Programming Basics** repository! 🌟
@@ -67,6 +63,4 @@ This repository is licensed under the MIT License. For more information, please 
 
 Start your competitive programming journey here and build a strong foundation for tackling even the most challenging problems. Happy coding! 🎉
 
----
 
-This README references each of your files, providing a clear structure and professional tone while guiding users through the repository's content.
