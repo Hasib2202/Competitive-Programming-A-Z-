@@ -1,4 +1,4 @@
-# Competitive Programming Basics
+# Competitive Programming Basics [A TO Z]
 
 Welcome to the **Competitive Programming Basics** repository! 🌟
 
