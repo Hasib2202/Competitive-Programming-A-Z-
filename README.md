@@ -1,6 +1,6 @@
 # Competitive Programming Basics [A TO Z]
 
-Welcome to the **Competitive Programming Basics** repository! 🌟
+Welcome to the **Competitive Programming Basics** repository! 🌟 :)
 
 This repository is your go-to resource for mastering the foundational concepts of competitive programming. Whether you're just getting started or looking to solidify your understanding of core topics, you'll find valuable insights and practice problems to help you succeed.
 
